@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Twitter Client</string>
+    <string name="button_twitter_login">Twitter Login</string>
+    <string name="refresh">Refresh</string>
+    <string name="log_out">Log out</string>
+    <string name="newTweet">New</string>
+    <string name="PostTweet">Tweet</string>
+    <string name="retweetedBy" translatable="false">%1$s Retweeted</string>
+    <string name="twitterHandle" translatable="false">\@%1$s</string>
+    <string name="retweetCount" translatable="false">RT: %1$d</string>
+    <string name="favouriteCount">FAV: %1$d</string>
+    <string name="message_too_short">Message too short</string>
+    <string name="message_too_long">Message too long</string>
+    <string name="post_tweet_hint">What\'s happening?</string>
+    <string name="characterCount" translatable="false">140</string>
+    <string name="logOut_dialog_message">Are you sure you want to log out?</string>
+    <string name="logOut_dialog_confirm">Confirm</string>
+    <string name="logOut_dialog_cancel">Cancel</string>
+
+    <!--Set the following values-->
+    <string name="consumer_key" translatable="false">INSERT VALUE HERE</string>
+    <string name="consumer_secret" translatable="false">INSERT VALUE HERE</string>
+    <string name="callback_url" translatable="false">INSERT VALUE HERE</string>
+    <string name="username_or_email_for_tests">INSERT VALUE HERE</string>
+    <string name="password_for_tests" translatable="false">INSERT VALUE HERE</string>
+</resources>
